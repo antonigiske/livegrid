@@ -57,7 +57,8 @@
 				'height' : '100%',
 				'top': 0,
 				'background': this.opts.gridBg,
-				'z-index': '9999'
+				'z-index': '9999',
+				'display': 'none'
 			});
 
 			if(this.opts.center) {
