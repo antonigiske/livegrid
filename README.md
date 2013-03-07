@@ -7,4 +7,9 @@ To use it just include jQuery and livegrid.js. Edit settings inside livegrid.js.
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="livegrid.js"></script>
+    
+Demo
+----
+
+[http://kodebyraaet.no/livegrid/](http://kodebyraaet.no/livegrid/)
 
